@@ -33,7 +33,7 @@
 
     "item_properties": {
         "id_key": "id",
-        "val" = "text1" +"\n" + "text2"
+        "val" = "text1" +"\n" + "text2",
         "text_key": "val",
         "context_key": "context"
     },
