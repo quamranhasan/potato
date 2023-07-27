@@ -33,7 +33,7 @@
 
     "item_properties": {
         "id_key": "id",
-        "text_key": "text",
+        "text_key": "multiline",
         "context_key": "context"
     },
 
