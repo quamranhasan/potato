@@ -1,25 +1,2 @@
-  {
-    "id": "item_1",
-    "text": "how are you",
-    "translation": "আপনি কেমন আছেন"
-  }
-  {
-    "id": "item_2",
-    "text": "i have a dog",
-    "translation": "আমার একটি কুকুর আছে"
-  }
-  {
-    "id": "item_3",
-    "text": "he is american",
-    "translation": "তিনি আমেরিকান"
-  }
-  {
-    "id": "item_4",
-    "text": "let us go on a vacation",
-    "translation": "আমাদের একটি ছুটিতে যেতে দিন"
-  }
-  {
-    "id": "item_5",
-    "text": "you are a coward",
-    "translation": "তুমি একটা ভিতু"
-  }
+  {"id": "item_1", "text": "how are you", "translation": "আপনি কেমন আছেন"}
+
