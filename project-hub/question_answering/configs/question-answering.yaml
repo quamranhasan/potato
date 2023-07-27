@@ -49,13 +49,21 @@
     # that, an alert will be sent per alert_time_each_instance seconds.
     "alert_time_each_instance": 10000000,
 
-    "annotation_schemes": [      
-        {
-            "annotation_type": "text",
-            "name": "textbox_input",
-            "description": "Write the Proper Translation",
-        }       
-    ],
+"annotation_schemes": [      
+    {
+        "annotation_type": "text",
+        "name": "textbox_input",
+        "description": "How does this text make you feel?",
+        # you could easily define a list of textboxes within one schema with a list of labels
+        "labels": ['happy?','sad?'],
+        # if you want to use a multi-line textbox, turn on the text area and set the desired rows and cols of the textbox
+            "textarea": {
+              "on": True,
+              "rows": 2,
+              "cols": 40
+        }
+    }       
+],
 
     # The html that changes the visualiztation for your task. Change this file
     # to influence the layout and description of your task. This is not a full
