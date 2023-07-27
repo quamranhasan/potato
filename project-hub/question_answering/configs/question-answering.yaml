@@ -56,7 +56,7 @@
               "on": True,
               "rows": 2,
               "cols": 40
-        }
+        },
         "name": "textbox_input",
         "description": "Write down the correct translation",
     }       
