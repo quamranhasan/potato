@@ -1,22 +1,5 @@
-[
-  {
-    "id": "item_1",
-    "text": "how are you ||| আপনি কেমন আছেন"
-  },
-  {
-    "id": "item_2",
-    "text": "how are you ||| আপনি কেমন আছেন"
-  },
-  {
-    "id": "item_3",
-    "text": "how are you ||| আপনি কেমন আছেন"
-  },
-  {
-    "id": "item_4",
-    "text": "how are you ||| আপনি কেমন আছেন"
-  },
-  {
-    "id": "item_5",
-    "text": "how are you ||| আপনি কেমন আছেন"
-  }
-]
+{"id": "item_1", "text": "how are you ||| আপনি কেমন আছেন"}
+{"id": "item_2","text": "i have a dog ||| আমার একটি কুকুর আছে"}
+{"id": "item_3","text": "he is american ||| তিনি আমেরিকান"}
+{"id": "item_4", "text": "let us go on a vacation ||| আমাদের একটি ছুটিতে যেতে দিন"}
+{"id": "item_5","text": "you are a coward ||| তুমি একটা ভিতু"}
