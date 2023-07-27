@@ -53,7 +53,7 @@
         {
             "annotation_type": "text",
             "name": "textbox_input",
-            "description": "Please write your own reply to the given sentence",
+            "description": "Write the Proper Translation",
         }       
     ],
 
