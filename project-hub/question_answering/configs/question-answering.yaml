@@ -3,7 +3,7 @@
 
     "server_name": "potato annotator",
 
-    "annotation_task_name": "Contextual Acceptability",
+    "annotation_task_name": "Question Answering",
 
     #
     # Potato will write the annotation file for all annotations to this
