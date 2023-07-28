@@ -54,6 +54,11 @@
         "annotation_type": "text",
         "name": "textbox_input",
         "description": "Write down the correct translation",
+        "textarea": {
+              "on": True,
+              "rows": 10,
+              "cols": 40
+              }
     }       
 ],
 
