@@ -50,21 +50,17 @@
     "alert_time_each_instance": 10000000,
 
 "annotation_schemes": [      
-        {
-            "annotation_type": "multiselect",
-            "name": "favorite_color", 
-            "description": "What colors are mentioned in the text?",
-            "labels": [
-               "blue", "maize", "green", "white"
-            ],
-
-            # If true, numbers [1-len(labels)] will be bound to each
-            # label. Check box annotations with more than 10 are not supported
-            # with this simple keybinding and will need to use the full item
-            # specification to bind all labels to keys.
-            "sequential_key_binding": True,            
-        },       
-],
+    {
+        "annotation_type": "text",
+        "name": "textbox_input",
+        "description": "Write down the correct translation",
+        "textarea": {
+              "on": True,
+              "rows": 10,
+              "cols": 40
+              }
+    }
+    ],
 
     # The html that changes the visualiztation for your task. Change this file
     # to influence the layout and description of your task. This is not a full
